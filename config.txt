@@ -1,0 +1,2 @@
+-proxy:https://uschi-msi4
+-wait:600

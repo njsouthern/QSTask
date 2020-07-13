@@ -1,0 +1,1 @@
+qliksensetask -task:"TaskName" -proxy:https://localhost -wait:600"
